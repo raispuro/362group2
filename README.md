@@ -4,6 +4,8 @@ Brandon:
 - reimplement CloudSQL for login system
 - added dedicated bucket for each user
 - merged Ramiro's intro page to project
+
+
 Ramiro:
 - Streamlined the code & cleaned up the site
 - Created Login/Signup form 
